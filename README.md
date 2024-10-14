@@ -8,4 +8,4 @@ Power BI is a powerful business intelligence tool create interactive reports, da
 
 The goal of this dataset is to analyze the sales growth of a supermarket in the United States and measure the country-wise year-to-date number of customers shopping and the total amount of discount sales associated with them.
 
-Power BI visualizations offer a wide range of options to create impactful reports for supermarkets, enabling various ways of visualizing data and providing functional capabilities.
+Power BI visualizations offer a wide range of options to create impactful reports for supermarkets,   enabling various ways of visualizing data and providing functional capabilities.
